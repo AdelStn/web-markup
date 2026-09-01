@@ -1,0 +1,5 @@
+Student name: Adel Fani 
+Student number: 756698
+Student class: c1
+GitHub Repository: https://github.com/AdelStn/web-markup
+GitHub Pages URL: https://adelstn.github.io/web-markup/
